@@ -1,2 +1,2 @@
 # Search-Engine-A1
-This application suggests the next 10 similar words based on the Skipgram model with dot product similarity which working by input one word and the application will predict top 10 similar words.
+This application suggests the next 10 similar words based on the Skipgram model with dot product similarity which working by input one word and the application will predict top 10 similar words. There are 4 models for the comparasion between Skipgram, Glove, Skipgram Negative Sampling and Glove Gensim which I choose Skipgram model to create the application. You can view each seperate file for the model comparation.
